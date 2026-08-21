@@ -136,7 +136,7 @@ Installation
 
 Clone the repository:
 
-git clone <repository-url>
+git clone https://github.com/Yurys-hub/task-manager
 cd task-manager
 
 No additional dependencies are required.
