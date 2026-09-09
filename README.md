@@ -263,4 +263,4 @@ REST API.
 The console application itself is considered a completed learning
 project.
 
-Git practice
+Git practice. New commands
