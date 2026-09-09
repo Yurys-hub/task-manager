@@ -138,5 +138,6 @@ def main() -> None:
             print()
 
 # new comment for practice
+# another practice comment
 if __name__ == '__main__':
     main()
